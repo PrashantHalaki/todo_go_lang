@@ -2,8 +2,9 @@
 
 ## Environment variables to be added
 
-export MYSQL*CONNECTION_URL="<User>:<Password>@/<Database>?parseTime=true"
-export PORT= \_Mention the PORT where you want to run the application by default it will be 8080*
+export MYSQL*CONNECTION_URL="Username:Password@/Database?parseTime=true"
+
+export PORT= *Mention the PORT where you want to run the application by default it will be 8080*
 
 ## Command to run download all dependencies
 
