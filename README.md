@@ -6,7 +6,7 @@ export MYSQL*CONNECTION_URL="Username:Password@/Database?parseTime=true"
 
 export PORT= *Mention the PORT where you want to run the application by default it will be 8080*
 
-## Command to run download all dependencies
+## Command to download all dependencies
 
 go get -d ./...
 
